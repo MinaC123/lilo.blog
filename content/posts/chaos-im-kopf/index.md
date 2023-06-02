@@ -3,6 +3,8 @@ title = "Chaos im Kopf"
 date = "2023-06-02"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage", "ADHS", "ADS", "Medikamente"]
+image = "whatsapp-image-2023-06-02-at-14.15.56.jpeg"
 +++
 Sollen Kinder und Jugendliche Medikamente gegen ADHS einnehmen?
 
