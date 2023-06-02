@@ -16,8 +16,6 @@ An einem späten Nachmittag treffen wir uns mit der betroffenen Person, Olivia C
 
 ,,*Dass mit mir etwas nicht normal ist, ist mir bewusst. Die Töne und Geräusche hallen in meinem Kopf wider. Ich spüre Blicke, die meinen Rücken durchbohren, dies weil ich anders bin. Im Unterricht kann ich mich nie konzentrieren, habe mehr Energie und bin immer etwas lauter. Die anderen schliessen mich aus ihren Freundesgruppen aus, so wurde ich zum komischen Aussenseiter* ’’ Olivia erzählt uns anhand dieser Geschichte, die ihr Sohn ihr erzählt hat, wie ein Schulalltag ihres Sohns vor der Medikamenten Einnahme aussah. 
 
-
-
 **Was steckt hinter ADHS?** 
 Die Abkürzung AHDS steht für Aufmerksamkeitsdefizit- / Hyperaktivitätsstörung. Das ist eine Verhaltensnormabweichung, welche bei Kindern, Jugendlichen und Erwachsenen vorkommen kann. 
 Diese Verhaltensnormabweichung kann in drei Kategorien entlang ihrer Hauptabweichung unterteilt werden:
@@ -51,19 +49,18 @@ Eine weitere häufig eingesetzte Therapieform ist die medikamentöse Therapie. S
 Dies bestätigt uns der Experte Dr. Werner:,, Medikamente können nur begleitend helfen.’’
 Die Fachgesellschaft empfiehlt eine medikamentöse Behandlung bei Kindern ab dem Alter von sechs Jahren. Dabei muss man auf die folgenden drei Empfehlungen achten:
 
-Dabei muss man auf die folgenden drei Empfehlungen achten:
+Dabei muss man auf die folgenden **drei Empfehlungen** achten:
 
-1. Wenn man derart starke ADHS-Symptome hat, dass die schulische Leistungsfähigkeit, die Freizeitaktivitäten des Kindes oder Jugendlichen oder das Zusammenleben mit der Familie beeinträchtigt sind, sollen Medikamente abgegeben werden.
-2. Bei mittleren Symptomen empfiehlt Fachgesellschaft, entweder eine medikamentöse Therapie oder eine Verhaltenstherapie durchzuführen. 
-3. Falls die ADHS-Symptome durch die Verhaltenstherapie nicht gelindert werden können, dann werden den 
+1. Wenn man derart starke ADHS-Symptome hat, dass die **schulische Leistungsfähigkeit**, **die Freizeitaktivitäten** des Kindes oder Jugendlichen oder **das Zusammenleben mit der Familie beeinträchtigt** sind, sollen Medikamente abgegeben werden.
+2. Bei mittleren Symptomen empfiehlt **Fachgesellschaft**, entweder eine **medikamentöse Therapie** oder eine **Verhaltenstherapie** durchzuführen. 
+3. Falls die ADHS-Symptome durch **die Verhaltenstherapie nicht gelindert** werden können, dann werden den 
    Betroffenen Medikamente verschrieben. 
 
 Olivia erzählt uns mit einem Lächeln, wie sie sich beim ersten Einnehmen von Medikamenten (Elvanse) gefühlt hat: ,,*Als ich die Medikamente bekam, wusste ich nicht, was mit mir passieren würde. Doch nach einigen Wochen wurde mir klar, dass das Ausprobieren mir nicht schaden würde. Ich habe dann selbst gemerkt, was für ein chaotischer Typ ich wirklich bin. Nach der Einnahme von Medikamenten konnte ich das Chaos, das ich in meinem Kopf hatte in eine Schublade einordnen.* ’’ Bei einer medikamentösen Therapie ist wichtig, genau darauf zu achten, ob das Medikament unerwünschte Nebenwirkungen auslöst und ob die Dosierung für die einzelne Person passend ist.
 Mehrere Untersuchungen der Gehirne von ADHS-Betroffene haben gezeigt, dass bestimmte Bereiche des Gehirnes anders funktionieren und dass bestimmte chemische Verbindungen im Gehirn anders reguliert werden. Medikamente helfen dem Körper, bzw. dem Gehirn, normentsprechend zu funktionieren. Der Wirkstoff, der als Tabletten eingenommen wird, sorgt dafür, dass das Gehirn Außenreize besser filtern kann, indem es die Konzentration der Nervenbotenstoffe Dopamin und Noradrenalin erhöht, die wichtig für die Gedächtnisfunktion sind. So kann der oder die Betroffene Einflüsse von aussen besser verarbeiten und kann sich über längere Zeit auf eine Aufgabe fokussieren.\
 ,,Die Medikamenten geben dem Betroffenen eine Brücke oder Stützung zur Leistung, aber die Leistung selbst bringst dann du! ’’ – Dr. Werner
 
-![Abbildung 2: Olivia C.s Medikamente: diese Medikamente nimmt Olivia seit Januar 2023. (Aufnahme am 27.03.2023. Foto: Mina Collin)](whatsapp-image-2023-06-02-at-12.15.34.jpeg)
-
+![Abbildung 2: Olivia C.s Medikamente: diese Medikamente nimmt Olivia seit Januar 2023. (Aufnahme am 27.03.2023. Foto: Mina Collin)](whatsapp-image-2023-06-02-at-12.10.41.jpeg)
 
 Trotz der positiven Wirkung der Medikamente kann eine Einnahme von Medikamenten (bspw. Medikinet, Ritalin, Concerta oder das bekannte, in der Schweiz mittlerweile nicht mehr erhältliche, Adderall) auch zu unerwünschten Nebenwirkungen führen. Olivias C.s Sohn litt kurz nach der ersten Einnahme beispielsweise an starken Kopfschmerzen, Schlafstörungen und Appetitverlust. Diese Symptome seien aber nach ca. drei Wochen wieder verschwunden. 
 
